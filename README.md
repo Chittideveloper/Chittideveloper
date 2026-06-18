@@ -1,29 +1,51 @@
-# Hi 👋, I'm Chitti Babu
+# Hi 👋 I'm Chitti Babu
 
-🚀 Frontend Developer with 3+ years of experience
+🚀 Frontend Developer with 4+ years of experience in building scalable web applications.
 
-## Skills
+## Tech Stack
+
 - React.js
 - JavaScript (ES6+)
 - HTML5
 - CSS3
 - Tailwind CSS
 - Bootstrap
-- Git & GitHub
 - REST APIs
+- Git & GitHub
+- GIS Libraries
+- React Native
 
-## Projects
+## Professional Experience
+
+- 4+ years in Frontend Development
+- Enterprise Fleet Management Systems
+- Trip Management Applications
+- Vehicle Tracking Solutions
+- GIS-Based Monitoring Dashboards
+- Responsive UI/UX Development
+
+## Featured Projects
+
 ### Trip Management System
-- Vehicle tracking using maps
+- Real-time vehicle tracking
 - Plant-to-Plant trip monitoring
-- Driver and vehicle management
-- Real-time status updates
+- Driver performance tracking
+- Interactive dashboards
 
-### Fleet Management System
-- Live vehicle tracking
-- Reports and analytics
-- Dashboard with charts
+### Fleet Management Platform
+- Live GPS Tracking
+- Vehicle Analytics
+- Alert Management
+- Reporting System
 
-## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/chitti-babu-g-422540269/
-- Portfolio: https://chittis-portfolio.vercel.app/
+### Portfolio Website
+- Modern React Application
+- Responsive Design
+- Performance Optimized
+
+## Current Focus
+
+- Advanced React Patterns
+- Performance Optimization
+- GIS & Mapping Solutions
+- Enterprise Application Architecture
