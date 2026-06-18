@@ -77,6 +77,6 @@ Building scalable web applications, fleet management systems, vehicle tracking s
 
 ## 📫 Connect With Me
 
-- LinkedIn: Your LinkedIn URL
-- Portfolio: Your Portfolio URL
-- Email: yourmail@example.com
+- LinkedIn: https://www.linkedin.com/in/chitti-babu-g-422540269/
+- Portfolio: https://chittis-portfolio.vercel.app/
+- Email: chittibabugutti7@gmail.com
