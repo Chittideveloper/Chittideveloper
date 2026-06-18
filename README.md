@@ -67,14 +67,6 @@ Building scalable web applications, fleet management systems, vehicle tracking s
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chittideveloper&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chittideveloper&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/chitti-babu-g-422540269/
