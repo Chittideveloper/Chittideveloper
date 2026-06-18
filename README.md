@@ -13,7 +13,6 @@
 - REST APIs
 - Git & GitHub
 - GIS Libraries
-- React Native
 
 ## Professional Experience
 
