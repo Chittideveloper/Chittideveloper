@@ -1,50 +1,82 @@
-# Hi 👋 I'm Chitti Babu
+<h1 align="center">Hi 👋, I'm Chitti Babu</h1>
+<h3 align="center">Frontend Developer | React.js Specialist | 4+ Years Experience</h3>
 
-🚀 Frontend Developer with 4+ years of experience in building scalable web applications.
+<p align="center">
+Building scalable web applications, fleet management systems, vehicle tracking solutions, and GIS-based dashboards.
+</p>
 
-## Tech Stack
+---
 
+## 🚀 About Me
+
+- 💼 Frontend Developer with 4+ years of experience
+- ⚛️ Specialized in React.js Development
+- 🗺️ Experience with GIS & Mapping Applications
+- 🚚 Developed Fleet Management & Trip Management Systems
+- 📊 Dashboard, Analytics & Reporting Applications
+- 🔗 REST API Integration & Authentication
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
 - React.js
 - JavaScript (ES6+)
 - HTML5
 - CSS3
 - Tailwind CSS
 - Bootstrap
-- REST APIs
+
+### Libraries & Tools
+- React Router
+- Axios
+- Leaflet Maps
+- ApexCharts
+- Recharts
 - Git & GitHub
-- GIS Libraries
+- Postman
 
-## Professional Experience
+### Backend Knowledge
+- REST APIs
+- Authentication & Authorization
+- Django API Integration
 
-- 4+ years in Frontend Development
-- Enterprise Fleet Management Systems
-- Trip Management Applications
-- Vehicle Tracking Solutions
-- GIS-Based Monitoring Dashboards
-- Responsive UI/UX Development
+---
 
-## Featured Projects
+## 💼 Professional Experience
+
+### Fleet Management System
+- Real-time vehicle tracking
+- GPS monitoring
+- Alert management
+- Dashboard analytics
+- Reporting modules
 
 ### Trip Management System
-- Real-time vehicle tracking
-- Plant-to-Plant trip monitoring
-- Driver performance tracking
-- Interactive dashboards
+- Plant-to-Plant trip tracking
+- Vehicle utilization monitoring
+- Driver management
+- Route analytics
 
-### Fleet Management Platform
-- Live GPS Tracking
-- Vehicle Analytics
-- Alert Management
-- Reporting System
+### GIS Applications
+- Interactive maps
+- Geofencing
+- Location monitoring
+- Live tracking systems
 
-### Portfolio Website
-- Modern React Application
-- Responsive Design
-- Performance Optimized
+---
 
-## Current Focus
+## 📈 GitHub Stats
 
-- Advanced React Patterns
-- Performance Optimization
-- GIS & Mapping Solutions
-- Enterprise Application Architecture
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chittideveloper&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chittideveloper&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: Your LinkedIn URL
+- Portfolio: Your Portfolio URL
+- Email: yourmail@example.com
